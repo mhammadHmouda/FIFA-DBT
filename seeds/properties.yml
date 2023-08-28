@@ -1,0 +1,13 @@
+seeds:
+  - name: players
+    config:
+      quote_columns: true
+      schema: csv
+      column_types:
+        Name: string
+        Age: string
+        Nationality: string
+        Fifa Score: string
+        Club: string
+        Value: string
+        Salary: string
